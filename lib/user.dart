@@ -1,5 +1,4 @@
 
-// user.dart
 class User {
   final String profileImage;
   final String name;
